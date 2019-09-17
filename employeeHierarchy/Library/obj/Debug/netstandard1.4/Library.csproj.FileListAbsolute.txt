@@ -1,0 +1,6 @@
+H:\Hillary\Desktop\New_folder\technobrain\employeeHierarchy\Library\bin\Debug\netstandard1.4\Library.deps.json
+H:\Hillary\Desktop\New_folder\technobrain\employeeHierarchy\Library\bin\Debug\netstandard1.4\Library.dll
+H:\Hillary\Desktop\New_folder\technobrain\employeeHierarchy\Library\bin\Debug\netstandard1.4\Library.pdb
+H:\Hillary\Desktop\New_folder\technobrain\employeeHierarchy\Library\obj\Debug\netstandard1.4\Library.AssemblyInfo.cs
+H:\Hillary\Desktop\New_folder\technobrain\employeeHierarchy\Library\obj\Debug\netstandard1.4\Library.dll
+H:\Hillary\Desktop\New_folder\technobrain\employeeHierarchy\Library\obj\Debug\netstandard1.4\Library.pdb
